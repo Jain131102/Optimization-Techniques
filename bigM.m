@@ -3,6 +3,7 @@ clear;
 
 % Gift Pack Problem using Big M Method
 % Constraints (converted to standard form):
+% Maximize Z = 5x + 6y +0S1 +0S2 -MA1 -MA2 
 % x + y      + A1      = 5
 % x - S1     + A2      = 2
 %     y      +    S2   = 4
