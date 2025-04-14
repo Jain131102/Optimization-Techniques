@@ -76,7 +76,7 @@ disp("Optimal Value of Z:");
 Z = Cb' * b;
 disp(Z);
 
-Output
+%Output
 % Optimal solution found.
 % Optimal Variable Values:
 %      2
